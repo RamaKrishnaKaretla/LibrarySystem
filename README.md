@@ -1,4 +1,4 @@
-# LibrarySystem
+# SuperMarket Management Systen
 
 This is a console application developed using C++, this project is of Managing the Library System with the features like 
 
